@@ -14,7 +14,7 @@ With over 12 years of experience as a technical architect, I transitioned into d
 
 ## 🎓 Education
 
-- **Course in Industrial Applications of Machine Learning and Artificial Intelligence**  
+- **Industrial Applications of Machine Learning and Artificial Intelligence**  
   IronHack (Oct 2024)  
   The course covers basic concepts of AI and machine learning, the evolution of AI, fundamentals of neural networks, and practical exercises using Keras/TensorFlow.  
 
