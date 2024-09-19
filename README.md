@@ -59,7 +59,6 @@ Here are some of the exciting projects I’ve worked on:
 
 | Project | Description | Technologies | Insights |
 |---------|-------------|--------------|----------|
-| [Battleship Game](https://github.com/aliciamb86/Battleship-Game) | Classic Battleship game with AI opponent and multiple game modes. | Python | Recreated my favorite classic game, challenging myself by implementing AI for the opponent! |
 | [EDA: Rental Price Evolution in Spain](https://github.com/aliciamb86/EDA-Rental-Price-Evolution-in-Spain) | Exploratory data analysis on rental price trends across Spain. | Python, Pandas, Matplotlib | Uncovered valuable insights into Spain’s housing market through in-depth data analysis. |
 | [Interstellar Travel Satisfaction Analysis](https://github.com/aliciamb86/ML-interstellar-travel-satisfaction) | Machine learning models predicting satisfaction for space travel. | Python, Streamlit, Scikit-learn | Explored futuristic customer satisfaction in the age of space tourism. |
 | [Relational Database Creation](https://github.com/aliciamb86/Relational-Database-Creation) | Created a relational database for a bootcamp school. | PostgreSQL, Render | Enhanced my skills by designing and deploying a database from scratch. |
