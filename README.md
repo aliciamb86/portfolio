@@ -1,6 +1,6 @@
 # Hi there! I'm Alicia Martínez 👋
 
-![Header Image](/aliciamb86/github-header-image.png)
+![Header Image](github-header-image.png)
 
 **Data Scientist & Technical Architect**  
 With over 12 years of experience as a technical architect, I transitioned into data science to blend my analytical and project management skills with the power of machine learning, predictive modeling, and data-driven insights. I'm passionate about improving processes and outcomes through innovative, data-driven solutions.
