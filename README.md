@@ -1,4 +1,4 @@
-# Hi there! I'm Alicia Martínez 👋
+
 
 ![Header Image](github-header-image.png)
 
